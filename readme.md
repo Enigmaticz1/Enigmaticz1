@@ -1,13 +1,17 @@
 <h1 align="center">Hello! I'm Enigmaticz</h1>
 <h3 align="center">A 20 year old freelance developer based in Michigan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enigmaticz1&label=Profile%20views&color=0e75b6&style=flat" alt="enigmaticz1" /> </p>
+- I’m currently open to commissions and part time work. 💰 [None](None)
 
 - I can also create and manage discord servers! Example: **https://discord.gg/q8cEfb4xwU**
 
+- I have been developing and game designing for well over 8 years now. 👾 [None](None)
+
 - I have been a recent developer in FiveM on my own server for about 8-12 months. 💥 [Jacktown Streets RP](https://forum.cfx.re/t/jacktown-streets-rp-serious-gang-rp-drugs-and-robberies-150k-star-playerowned-housing-hiring-police-and-ems-economy-based-custom-drip-drugs-and-cars/2922454)
 
-- 📫 How to reach me **kcEntertainment12@gmail.com**
+- Looking to collaborate on a big FiveM project. **None**
+
+- 📫 How to reach me **Enigmaticz#8669 on discord!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enigmaticz1&show_icons=true&locale=en" alt="enigmaticz1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enigmaticz1&" alt="enigmaticz1" /></p>
-

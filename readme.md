@@ -3,6 +3,12 @@
 
 - I have been a recent developer in FiveM on my own server for about 8-12 months. 💥 [Jacktown Streets RP](https://forum.cfx.re/t/jacktown-streets-rp-serious-gang-rp-drugs-and-robberies-150k-star-playerowned-housing-hiring-police-and-ems-economy-based-custom-drip-drugs-and-cars/2922454)
 
+- Looking to collaborate on a big project! **Or a smaller project I believe in.**
+
+- I have been developing and game designing for well over 8 years now. 👾 **Including Unreal and Unity**
+
+- I’m currently open to commissions and part time work. 💰 **Or free work depending on the project!**
+
 - Looking to collaborate on a big FiveM project. **https://discord.gg/q8cEfb4xwU**
 
 - The best way to reach me is through discord! **Enigmaticz#8669**

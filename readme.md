@@ -1,17 +1,15 @@
 <h1 align="center">Hello! I'm Enigmaticz</h1>
 <h3 align="center">A 20 year old freelance developer based in Michigan.</h3>
 
-- I’m currently open to commissions and part time work. 💰 [None](None)
+- I’m currently open to commissions and part time work. 💰 **None**
 
 - I can also create and manage discord servers! Example: **https://discord.gg/q8cEfb4xwU**
 
-- I have been developing and game designing for well over 8 years now. 👾 [None](None)
+- I have been developing and game designing for well over 8 years now. 👾 **None**
 
 - I have been a recent developer in FiveM on my own server for about 8-12 months. 💥 [Jacktown Streets RP](https://forum.cfx.re/t/jacktown-streets-rp-serious-gang-rp-drugs-and-robberies-150k-star-playerowned-housing-hiring-police-and-ems-economy-based-custom-drip-drugs-and-cars/2922454)
 
-- Looking to collaborate on a big FiveM project. **None**
-
-- 📫 How to reach me **Enigmaticz#8669 on discord!**
+- The best way to reach me is through discord! **Enigmaticz#8669**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
